@@ -35,8 +35,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em **d
 
 | Projeto | O que faz | Tecnologias principais |
 | --- | --- | --- |
+| [Próxima — Organizador de candidaturas](https://github.com/Guilherme-Soares00/organizador-candidaturas) | Aplicação para acompanhar candidaturas a vagas, com cadastro, busca, filtros por etapa, resumo e modo escuro. | Java, Spring Boot, Spring JDBC, SQLite, HTML, CSS e JavaScript |
 | [CampusRide](https://github.com/Guilherme-Soares00/campusRide) | API de caronas entre estudantes, com publicação de viagens, reservas, cancelamentos e validações de disponibilidade. | Java, Spring Boot, Spring Data JPA, H2 e Gradle |
-| [Imóvel Fácil](https://github.com/Guilherme-Soares00/imovel-Facil) | API de imóveis com cadastro, filtros, paginação, navegação HATEOAS e cache. | Java, Spring Boot, Spring Data JPA, H2, Caffeine e Maven |
 | [OrbitCast](https://github.com/Guilherme-Soares00/OrbitCast-Global) | API para planejar campanhas de transmissão via satélite e simular custo, alcance e cobertura. | Java, Quarkus, JDBC, Oracle, H2, Maven e Docker |
 | [TDB-atendimento](https://github.com/Guilherme-Soares00/TDB-atendimento) | Back-end para centralizar atendimentos da Turma do Bem, com roteamento, prioridade e acompanhamento de SLA. | Java, Quarkus, JDBC, Oracle, Maven e Docker |
 
