@@ -19,8 +19,16 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em **d
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- **Desenvolvimento:** Java, Spring Boot, Quarkus, APIs REST, SQL e Python.
+- **Desenvolvimento:** Java, Spring Boot, Quarkus, APIs REST, SQL, Python, C++, C#, .NET, HTML5, CSS e JavaScript.
 - **Ferramentas utilizadas nos projetos:** Spring Data JPA, JDBC, Oracle Database, H2, Maven, Gradle, Docker, Git e Swagger/OpenAPI.
 
 ## Projetos em destaque
