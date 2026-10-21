@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Guilherme%20Soares%20Alberti;ADS%20%7C%20FIAP%20%7C%20S%C3%A3o%20Paulo%2C%20BR;Back-end%20Java%20%7C%20Spring%20Boot%20%7C%20Quarkus" alt="Guilherme Soares Alberti — ADS na FIAP e back-end Java" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0050E0&center=true&vCenter=true&width=600&lines=Guilherme%20Soares%20Alberti;ADS%20%7C%20FIAP%20%7C%20S%C3%A3o%20Paulo%2C%20BR;Back-end%20Java%20%7C%20Spring%20Boot%20%7C%20Quarkus" alt="Guilherme Soares Alberti — ADS na FIAP e back-end Java" />
 </p>
 
 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em **desenvolvimento back-end Java**. Busco uma oportunidade de estágio ou uma vaga júnior para aplicar meus conhecimentos em APIs REST e bancos de dados.
