@@ -1,13 +1,30 @@
-![Atlas orbital de Guilherme Soares Alberti, com treze repositórios próprios.](assets/atlas.webp)
+<h1 align="center">Guilherme Soares Alberti</h1>
+<p align="center">Frontend or full-stack engineer</p>
 
-[Ler sem animação](ESTATICO.md)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=guilherme-soares00&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228614216%3Fu%3Da07fe6c2541c87d8bcd5eed9169a311c4070532c%26v%3D4" alt="guilherme-soares00 galaxy visual" />
+</p>
 
-Estudo **Análise e Desenvolvimento de Sistemas na FIAP** e desenvolvo APIs REST com **Java, Spring Boot e Quarkus**. Busco uma oportunidade de estágio ou uma vaga júnior em back-end.
+<p align="center"><b>14</b> public repositories, <b>0</b> stars, <b>525</b> contributions in the last year, a longest streak of <b>8</b> days and <b>5</b> followers.</p>
 
-![Catálogo: Refúgio, NEXO, Próxima e OrbitCast.](assets/catalogo.webp)
+## Brightest stars
 
-[Refúgio](https://github.com/Guilherme-Soares00/refugio) · [NEXO](https://github.com/Guilherme-Soares00/NEXO-api) · [Próxima](https://github.com/Guilherme-Soares00/organizador-candidaturas) · [OrbitCast](https://github.com/Guilherme-Soares00/OrbitCast-Global)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=guilherme-soares00&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228614216%3Fu%3Da07fe6c2541c87d8bcd5eed9169a311c4070532c%26v%3D4" alt="guilherme-soares00 projects visual" />
+</p>
 
-![Linguagens por volume de código: Java 72.5%, JavaScript 11.6%, C# 6.6%, Shell 4.2%, CSS 1.6%.](assets/linguagens.png)
+## Elements
 
-**Contato**  ·  [LinkedIn](https://www.linkedin.com/in/guilherme-soares-alberti)  ·  [Todos os repositórios](https://github.com/Guilherme-Soares00?tab=repositories)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=guilherme-soares00&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228614216%3Fu%3Da07fe6c2541c87d8bcd5eed9169a311c4070532c%26v%3D4" alt="guilherme-soares00 stack visual" />
+</p>
+
+## Transmission
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=guilherme-soares00&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228614216%3Fu%3Da07fe6c2541c87d8bcd5eed9169a311c4070532c%26v%3D4" alt="guilherme-soares00 social visual" />
+</p>
+
+<p align="center"><a href="https://github.com/guilherme-soares00">GitHub</a></p>
+
+<p align="center"><sub>Guilherme Soares Alberti · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
