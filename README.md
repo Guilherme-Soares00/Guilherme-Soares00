@@ -22,5 +22,5 @@
 ## Transmission
 
 <p align="center">
-  <a href="https://github.com/Guilherme-Soares00"><img src="assets/github-contato.svg" width="50%" alt="GitHub de Guilherme Soares Alberti" /></a><a href="https://www.linkedin.com/in/guilherme-soares-alberti"><img src="assets/linkedin-contato.svg" width="50%" alt="LinkedIn de Guilherme Soares Alberti" /></a>
+  <a href="https://github.com/Guilherme-Soares00"><img src="https://raw.githubusercontent.com/Guilherme-Soares00/Guilherme-Soares00/f5502e9bb6734bf159bf30068fb50c5b6d485bf3/assets/github-contato.svg" width="50%" alt="GitHub de Guilherme Soares Alberti" /></a><a href="https://www.linkedin.com/in/guilherme-soares-alberti"><img src="https://raw.githubusercontent.com/Guilherme-Soares00/Guilherme-Soares00/f5502e9bb6734bf159bf30068fb50c5b6d485bf3/assets/linkedin-contato.svg" width="50%" alt="LinkedIn de Guilherme Soares Alberti" /></a>
 </p>
