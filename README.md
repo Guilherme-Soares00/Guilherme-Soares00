@@ -22,5 +22,6 @@
 ## Transmission
 
 <p align="center">
-  <img src="assets/github-contato.svg" alt="guilherme-soares00 social visual" />
+  <a href="https://github.com/Guilherme-Soares00"><img src="assets/github-contato.svg" width="48%" alt="GitHub de Guilherme Soares Alberti" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-soares-alberti"><img src="assets/linkedin-contato.svg" width="48%" alt="LinkedIn de Guilherme Soares Alberti" /></a>
 </p>
