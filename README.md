@@ -1,52 +1,38 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0050E0&center=true&vCenter=true&width=600&lines=Guilherme%20Soares%20Alberti;ADS%20%7C%20FIAP%20%7C%20S%C3%A3o%20Paulo%2C%20BR;Back-end%20Java%20%7C%20Spring%20Boot%20%7C%20Quarkus" alt="Guilherme Soares Alberti — ADS na FIAP e back-end Java" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/galaxia-estatica.svg" />
+    <img src="assets/galaxia.webp" width="900" alt="Galáxia orbital animada de Guilherme Soares Alberti: 13 repositórios públicos próprios." />
+  </picture>
 </p>
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em **desenvolvimento back-end Java**. Busco uma oportunidade de estágio ou uma vaga júnior para aplicar meus conhecimentos em APIs REST e bancos de dados.
-
-```json
-{
-  "foco": "Back-end Java",
-  "formacao": "Análise e Desenvolvimento de Sistemas | FIAP",
-  "linkedin": "linkedin.com/in/guilherme-soares-alberti"
-}
-```
-
-## Tecnologias
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- **Desenvolvimento:** Java, Spring Boot, Quarkus, APIs REST, SQL, Python, C++, C#, .NET, HTML5, CSS e JavaScript.
-- **Ferramentas utilizadas nos projetos:** Spring Data JPA, JDBC, Oracle Database, H2, Maven, Gradle, Docker, Git e Swagger/OpenAPI.
+Estudo **Análise e Desenvolvimento de Sistemas na FIAP** e desenvolvo **APIs REST em Java**, principalmente com Spring Boot, Quarkus e bancos relacionais. Busco uma oportunidade de estágio ou uma vaga júnior em back-end.
 
 ## Projetos em destaque
 
-| Projeto | O que faz | Tecnologias principais |
-| --- | --- | --- |
-| [Próxima — Organizador de candidaturas](https://github.com/Guilherme-Soares00/organizador-candidaturas) | Aplicação para acompanhar candidaturas a vagas, com cadastro, busca, filtros por etapa, resumo e modo escuro. | Java, Spring Boot, Spring JDBC, SQLite, HTML, CSS e JavaScript |
-| [CampusRide](https://github.com/Guilherme-Soares00/campusRide) | API de caronas entre estudantes, com publicação de viagens, reservas, cancelamentos e validações de disponibilidade. | Java, Spring Boot, Spring Data JPA, H2 e Gradle |
-| [OrbitCast](https://github.com/Guilherme-Soares00/OrbitCast-Global) | API para planejar campanhas de transmissão via satélite e simular custo, alcance e cobertura. | Java, Quarkus, JDBC, Oracle, H2, Maven e Docker |
-| [TDB-atendimento](https://github.com/Guilherme-Soares00/TDB-atendimento) | Back-end para centralizar atendimentos da Turma do Bem, com roteamento, prioridade e acompanhamento de SLA. | Java, Quarkus, JDBC, Oracle, Maven e Docker |
+<p align="center">
+  <a href="https://github.com/Guilherme-Soares00/NEXO-api"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/NEXO-api.svg" /><img width="48%" src="assets/NEXO-api.webp" alt="NEXO-api — API educativa sobre aplicações civis da tecnologia nuclear. Java, Spring Boot e Oracle." /></picture></a>
+  <a href="https://github.com/Guilherme-Soares00/refugio"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/refugio.svg" /><img width="48%" src="assets/refugio.webp" alt="refugio — API de pontos de alívio térmico com frontend e infraestrutura separados. Java, Spring Boot e PostgreSQL." /></picture></a>
+</p>
 
-Os READMEs dos projetos apresentam instruções de execução, regras de negócio e créditos dos integrantes, quando aplicável.
+<p align="center">
+  <a href="https://github.com/Guilherme-Soares00/organizador-candidaturas"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/organizador-candidaturas.svg" /><img width="48%" src="assets/organizador-candidaturas.webp" alt="organizador-candidaturas — Organizador de candidaturas com filtros por etapa e modo escuro. Java, Spring Boot e SQLite." /></picture></a>
+  <a href="https://github.com/Guilherme-Soares00/OrbitCast-Global"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/OrbitCast-Global.svg" /><img width="48%" src="assets/OrbitCast-Global.webp" alt="OrbitCast-Global — Simula custos e alcance de transmissões via satélite. Java, Quarkus e Oracle." /></picture></a>
+</p>
 
-## Formação e idiomas
+<p align="center">
+  <a href="https://github.com/Guilherme-Soares00/campusRide"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/campusRide.svg" /><img width="48%" src="assets/campusRide.webp" alt="campusRide — API de caronas entre estudantes, com reservas e cancelamentos. Java, Spring Boot e H2." /></picture></a>
+  <a href="https://github.com/Guilherme-Soares00/TDB-atendimento"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/TDB-atendimento.svg" /><img width="48%" src="assets/TDB-atendimento.webp" alt="TDB-atendimento — API para triagem e priorização de atendimentos da Turma do Bem. Java, Quarkus e Oracle." /></picture></a>
+</p>
 
-- Análise e Desenvolvimento de Sistemas na **FIAP**, com conclusão prevista para **2027**.
-- Português nativo e inglês avançado.
+## Linguagens
+
+<img src="assets/linguagens.svg" width="900" alt="Participação no volume de código: Java: 72,5%; JavaScript: 11,6%; C#: 6,6%; Shell: 4,2%; CSS: 1,6%; Outras: 3,4%." />
+
+**Stack de back-end:** Java, Spring Boot, Quarkus e SQL. **Ferramentas:** Git, Docker, Maven, Gradle e Swagger/OpenAPI.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-soares-alberti)
+<p align="center">
+  <a href="https://github.com/Guilherme-Soares00"><img width="48%" src="assets/github.svg" alt="GitHub: @Guilherme-Soares00" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-soares-alberti"><img width="48%" src="assets/linkedin.svg" alt="LinkedIn: Guilherme Soares Alberti" /></a>
+</p>
