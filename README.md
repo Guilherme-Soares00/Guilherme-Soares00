@@ -1,5 +1,5 @@
 <h1 align="center">Guilherme Soares Alberti</h1>
-<p align="center">Frontend or full-stack engineer</p>
+<p align="center">Java Backend Developer</p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/galaxy?username=guilherme-soares00&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228614216%3Fu%3Da07fe6c2541c87d8bcd5eed9169a311c4070532c%26v%3D4" alt="guilherme-soares00 galaxy visual" />
