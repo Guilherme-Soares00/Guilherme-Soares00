@@ -24,5 +24,3 @@
 <p align="center">
   <img src="assets/github-contato.svg" alt="guilherme-soares00 social visual" />
 </p>
-
-<p align="center"><a href="https://github.com/guilherme-soares00">GitHub</a></p>
