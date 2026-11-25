@@ -22,7 +22,7 @@
 ## Transmission
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=guilherme-soares00&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228614216%3Fu%3Da07fe6c2541c87d8bcd5eed9169a311c4070532c%26v%3D4" alt="guilherme-soares00 social visual" />
+  <img src="assets/github-contato.svg" alt="guilherme-soares00 social visual" />
 </p>
 
 <p align="center"><a href="https://github.com/guilherme-soares00">GitHub</a></p>
